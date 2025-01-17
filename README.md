@@ -1,9 +1,9 @@
 <img align="right" src="src/assets/logo.png">
 
-# <a href="https://noclip.website">noclip</a>
+# [<a href="https://noclip.website">noclip</a>](https://x.com/noclipweb)
 
 The reverse engineering of model formats was done by many people. See the application for full credits.
-
+AI generated video game levels digital museum movie.
 ## Contributing
 
 Contributions are very welcome! New games, new features, and bug fixes are all very appreciated. Even small contributions like proper map names, grouping maps and new default savestates are extremely helpful.
