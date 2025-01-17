@@ -9,8 +9,7 @@ AI generated video game levels digital museum movie.
 
 Contributions are very welcome! New games, new features, and bug fixes are all very appreciated. Even small contributions like proper map names, grouping maps and new default savestates are extremely helpful.
 
-If you would like contribute, there is a Getting Started guide in the https://x.com/noclipweb, pinned in the #development channel. A number of developers from the community are present there and can help answer questions if you run into any additional issues getting set up.
-
+If you would like contribute, there is a Getting Started guide in the https://x.com/noclipweb.
 ## Controls
 
 Key | Description
