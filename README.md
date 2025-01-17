@@ -6,6 +6,7 @@
 The reverse engineering of model formats was done by many people. See the application for full credits.
 AI generated video game levels digital museum movie.
 ## Contributing
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/e7a2020c-2ea9-415b-b77a-c3d890752cea" />
 
 Contributions are very welcome! New games, new features, and bug fixes are all very appreciated. Even small contributions like proper map names, grouping maps and new default savestates are extremely helpful.
 
