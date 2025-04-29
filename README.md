@@ -15,7 +15,7 @@ If you would like contribute, there is a Getting Started guide in the https://x.
 
 Key | Description
 -|-
-`Z` | Show/hide all UI
+`Z` | Show/hide allUI
 `T` | Open "Games" list
 `W`/`A`/`S`/`D` or Arrow Keys | Move camera
 Hold `Shift` | Make camera move faster
